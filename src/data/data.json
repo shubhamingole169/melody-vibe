@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "title": "Dreamscape",
+      "artist": "Luna Wave",
+      "album": "Starlit Nights",
+      "duration": "3:45",
+      "cover": "/albums/dreamscape.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Neon Glow",
+      "artist": "Electric Pulse",
+      "album": "City Lights",
+      "duration": "4:12",
+      "cover": "/albums/neon-glow.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Sunset Vibes",
+      "artist": "Solar Breeze",
+      "album": "Horizon Dreams",
+      "duration": "3:30",
+      "cover": "/albums/sunset-vibes.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Cosmic Dance",
+      "artist": "Stellar Drift",
+      "album": "Galactic Tunes",
+      "duration": "5:01",
+      "cover": "/albums/cosmic-dance.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Forest Echo",
+      "artist": "Green Harmony",
+      "album": "Nature’s Song",
+      "duration": "4:20",
+      "cover": "/albums/forest-echo.jpg"
+    }
+  ]

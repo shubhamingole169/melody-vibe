@@ -1,0 +1,16 @@
+.app {
+  min-height: 100vh;
+  background: inherit;
+  color: inherit;
+  padding-bottom: 2rem;
+}
+
+main {
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  main {
+    padding: 2rem;
+  }
+}

@@ -1,0 +1,45 @@
+.album-card {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.1);
+    transition: transform 0.3s ease;
+    margin: 0 auto; /* Center cards */
+  }
+  
+  .album-card a {
+    display: block;
+    text-decoration: none;
+  }
+  
+  .album-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .album-info {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .album-info h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .album-info p {
+    font-size: 0.9rem;
+    color: #cccccc;
+  }
+  
+  @media (max-width: 768px) {
+    .album-card {
+      max-width: 100%;
+    }
+  
+    .album-card img {
+      height: 150px;
+    }
+  }

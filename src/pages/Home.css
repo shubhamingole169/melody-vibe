@@ -1,0 +1,34 @@
+.home {
+    text-align: center;
+  }
+  
+  .home h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .album-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  @media (min-width: 768px) {
+    .album-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .album-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .home h2 {
+      font-size: 1.5rem;
+    }
+  }

@@ -1,0 +1,69 @@
+.playlist {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .playlist h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .track-list {
+    list-style: none;
+  }
+  
+  .track-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    margin-bottom: 1rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .track-item img {
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+  }
+  
+  .track-info {
+    flex-grow: 1;
+    text-align: left;
+  }
+  
+  .track-info h3 {
+    font-size: 1.2rem;
+  }
+  
+  .track-info p {
+    font-size: 0.9rem;
+    color: #cccccc;
+  }
+  
+  .track-item span {
+    font-size: 0.9rem;
+  }
+  
+  @media (max-width: 480px) {
+    .playlist h2 {
+      font-size: 1.5rem;
+    }
+  
+    .track-item {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .track-info {
+      text-align: center;
+    }
+  
+    .track-item img {
+      width: 40px;
+      height: 40px;
+    }
+  }
