@@ -1,6 +1,6 @@
 # 🎶 **MelodyVibe**
 
-**MelodyVibe** is a stunning, frontend-only music player web app built with **React**, **Vite**, **Framer Motion**, and **plain CSS** for the **Frontend UI Hackathon 2025**. It features a responsive album grid, intuitive player controls, drag-and-drop playlist functionality, and a dark/light theme toggle, all wrapped in an adorable, modern aesthetic with vibrant colors and smooth animations.
+**MelodyVibe** is a stunning, frontend-only music player web app built with **React**, **Vite**, **Framer Motion**, and **plain CSS** for the **Frontend UI Hackathon 2025**. It features a responsive album grid,  intuitive player controls, drag-and-drop playlist functionality, and a dark/light theme toggle, all wrapped in an adorable, modern aesthetic with vibrant colors and smooth animations.
 
 > 🌐 **Live Demo:** [melody-vibe.vercel.app](https://melody-vibe.vercel.app/)
 
@@ -65,5 +65,5 @@ npm run dev
 
 ## 🤝 **Connect With Me**
 
-- 📧 Email: [shubhamingole169@email.com](mailto:shubhamingole169@email.com)  
+- 📧 Email: [shubhamingole169@email.com](mailto:shubhamingole169@email.com) 
 - 🐙 GitHub: [github.com/shubhamingole169](https://github.com/shubhamingole169)
